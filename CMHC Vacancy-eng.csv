@@ -1,0 +1,63 @@
+﻿"Canada Mortgage and Housing Corporation, vacancy rates, apartment structures of six units and over, privately initiated in census metropolitan areas 1 2 3"
+"Frequency: Annual"
+"Table: 34-10-0127-01 (formerly CANSIM 027-0011)"
+"Release date: 2025-02-04"
+"Geography: Census metropolitan area, Census metropolitan area part"
+""
+""
+
+"Geography","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024"
+,"Rate",,,,,,,,,,,
+"Census metropolitan areas","2.7","2.7","3.3","3.4","2.7","2.2","2.1","3.4","3.4","1.9","1.6","2.4"
+"Abbotsford-Mission, British Columbia","3.2","3.1","0.8","0.4","0.2","0.8","1.1","0.6","1.6","2.1","0.9","1.1"
+"Barrie, Ontario","2.5","1.5","1.3","2.0","2.8","2.8","3.3","1.9","1.7","2.0","2.7","2.7"
+"Brantford, Ontario","2.8","2.2","2.4","2.0","1.3","1.2","2.1","2.2","2.2","1.6","2.4","2.7"
+"Calgary, Alberta","1.0","1.4","5.3","6.9","6.2","3.9","3.7","6.5","5.1","2.7","1.4","4.8"
+"Edmonton, Alberta","1.4","1.7","4.2","7.1","7.0","5.3","4.9","7.2","7.3","4.3","2.4","3.1"
+"Greater Sudbury, Ontario","2.8","3.8","3.2","4.7","4.2","2.1","2.2","1.9","1.3","1.6","1.3","1.5"
+"Guelph, Ontario","1.7","1.1","1.2","0.9","1.2","1.4","1.9","2.0","2.0","1.5","1.3","2.0"
+"Halifax, Nova Scotia","3.2","3.7","3.3","2.6","2.2","1.5","1.0","1.7","1.0","0.9","0.9","2.0"
+"Hamilton, Ontario","3.4","2.1","3.4","3.8","2.3","3.1","3.9","3.6","2.6","1.8","2.1","2.4"
+"Kelowna, British Columbia","1.7","0.9","0.7","0.6","0.2","1.9","2.7","2.1","0.6","1.2","1.3","3.8"
+"Kingston, Ontario","2.2","1.9","2.9","2.6","0.8","0.5","1.6","2.9","1.1","1.1","0.9","3.0"
+"Kitchener-Cambridge-Waterloo, Ontario","2.8","2.2","2.5","2.1","1.9","2.9","2.1","2.1","2.0","1.2","2.0","3.7"
+"London, Ontario","3.2","2.7","2.7","2.0","1.6","2.0","1.7","3.2","1.7","1.6","1.6","2.7"
+"Moncton, New Brunswick","9.0","8.4","7.1","5.6","4.3","2.6","1.9","2.6","1.5","1.7","1.0","1.6"
+"Montréal, Quebec","3.2","3.8","4.5","4.6","2.9","2.0","1.6","3.3","3.5","2.2","1.9","2.5"
+"Montréal excluding Saint-Jérôme, Quebec (Terminated)","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t"
+"Oshawa, Ontario","2.0","1.8","1.7","1.7","2.2","2.6","2.3","2.2","2.0","2.6","1.6","3.7"
+"Ottawa-Gatineau, Ontario/Quebec","3.3","3.3","3.9","3.4","2.2","1.5","1.8","3.4","2.8","1.9","2.0","2.5"
+"Ottawa-Gatineau, Ontario part, Ontario/Quebec","2.9","2.6","3.4","2.8","1.8","1.6","1.8","3.8","3.3","2.2","2.2","2.5"
+"Ottawa-Gatineau, Quebec part, Ontario/Quebec","4.4","6.1","5.5","5.9","3.8","1.3","1.6","2.0","1.3","0.9","1.4","2.4"
+"Peterborough, Ontario","4.5","2.6","3.5","0.9","1.1","1.6","2.0","2.2","1.1","0.7","0.9","3.4"
+"Québec, Quebec","2.4","3.2","4.3","5.4","4.7","3.5","2.5","2.7","2.7","1.5","0.9","1.0"
+"Regina, Saskatchewan","1.8","2.9","5.3","5.4","7.0","7.7","7.8","7.4","7.0","3.0","1.3","2.5"
+"St. Catharines-Niagara, Ontario","3.6","3.3","2.7","2.0","1.3","2.2","2.1","2.3","1.8","2.2","2.7","3.6"
+"St. John's, Newfoundland and Labrador","3.1","3.7","4.2","8.5","6.7","6.2","7.1","7.6","2.8","2.4","1.0","1.9"
+"Saguenay, Quebec","2.9","5.8","9.2","7.9","8.0","5.0","3.3","2.9","1.7","0.6","1.0","2.3"
+"Saint John, New Brunswick","11.6","8.7","7.6","7.7","4.1","3.4","3.1","2.8","1.9","1.3","2.0","3.9"
+"Saskatoon, Saskatchewan","2.8","3.5","6.6","10.4","9.6","8.3","5.7","5.9","4.7","3.4","1.9","1.9"
+"Sherbrooke, Quebec","6.0","6.3","6.1","6.9","5.7","3.0","2.0","1.6","0.9","0.9","1.3","1.6"
+"Thunder Bay, Ontario","2.8","2.0","4.4","5.0","3.7","5.0","3.3","3.6","3.6","1.4","2.7","3.3"
+"Toronto, Ontario","1.6","1.6","1.5","1.3","1.0","1.1","1.5","3.4","4.6","1.6","1.4","2.5"
+"Trois-Rivières, Quebec","5.3","5.6","6.3","6.4","4.8","4.2","2.0","1.4","1.0","0.9","0.4","1.0"
+"Vancouver, British Columbia","1.7","1.0","0.8","0.7","0.9","1.0","1.1","2.6","1.2","0.9","0.9","1.6"
+"Victoria, British Columbia","2.8","1.5","0.6","0.5","0.7","1.1","1.0","2.2","0.9","1.5","1.6","2.7"
+"Windsor, Ontario","5.3","3.6","3.3","2.2","2.2","2.5","2.6","3.2","3.2","1.9","2.0","3.1"
+"Winnipeg, Manitoba","2.5","2.6","2.8","2.8","2.9","2.9","3.0","3.8","5.0","2.7","1.8","1.7"
+
+Symbol legend:
+.., not available for a specific reference period
+
+
+
+
+Footnotes:
+1,"Geographical areas modified every 5 years to reflect most recent census definitions, therefore, data are not strictly comparable historically."
+2,"These data are obtained from Canada Mortgage and Housing Corporation (CMHC) and are provided subject to <a href="https://www.cmhc-schl.gc.ca/en/data-and-research/cmhc-licence-agreement-use-of-data" rel="external noopener noreferrer" target="_blank"> CMHC Licence Agreement for the Use of Data (opens new window)</a>."
+3,"For additional information and definitions, refer to <a href=" https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/ScsMasMethodology" rel="external noopener noreferrer" target="_blank"> CMHC Starts and Completions Survey Methodology and Definitions (opens new window)</a>."
+
+
+
+"How to cite: Statistics Canada. Table 34-10-0127-01  Canada Mortgage and Housing Corporation, vacancy rates, apartment structures of six units and over, privately initiated in census metropolitan areas"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3410012701
